@@ -124,8 +124,43 @@
 - O modelo inicia o treinamento até a finalização.
 
 ![Captura de tela 2024-03-06 130743](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/d9ea47c4-0b7d-4e91-a8d8-bf26f09a2079)
+<br>
 
+## Passo 9
+- Validar métricas.
+- 9.1 -> Acessar as informações do modelo conforme imagem abaixo.
 
+![Captura de tela 2024-03-06 132035](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/a60a2cc3-89c1-4929-b597-920b3ac5573b)
 
+- 9.2 -> Acessar o trabalho.
+
+![Captura de tela 2024-03-06 132323](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/bcb59750-4037-496b-b3fa-d413cfaf207e)
+
+- 9.3 -> Acessar as métricas.
+
+![Captura de tela 2024-03-06 132617](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/c6ed7d82-97d5-47a5-95ed-4407103fe967)
+
+- As métricas trazem dois gráficos, o predicted_true e o residuals, que trazem informações de valores previstos comparados com os reais.
+
+![Captura de tela 2024-03-06 132832](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/fc39a053-e71d-4694-8bf5-ec4babac0e98)
+<br>
+
+## Passo 10
+- Implantar e Teste do Modelo.
+- 10.1 -> De volta à página do modelo, escolhemos a opção de Implantar Serviço Web.
+
+![Captura de tela 2024-03-06 133349](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/93f21605-136a-4156-9df4-ce32ef043806)
+
+- 10.2 -> Preencher com as informações fornecidas na documentação e Apertar em "Implantar".
+
+![Captura de tela 2024-03-06 133938](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/99eab488-2e50-4134-afe6-8baac614c081)
+
+- 10.3 -> Receberemos a notificação de que o Implantar está completo, e no menu esquerdo, vamos Apertar na aba Pontos de extremidade.
+
+![Captura de tela 2024-03-06 134259](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/ad54433a-6927-46c6-bc35-45c889c9f98e)
+
+- 10.4 -> Na tela de Pontos de extremidade, confirma o status "Succeeded" do Implantar, e Apertamos na aba "Testar"
+
+![Captura de tela 2024-03-06 135510](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/533a3ab1-b9a5-4c71-a298-4b4b9a887590)
 
 
