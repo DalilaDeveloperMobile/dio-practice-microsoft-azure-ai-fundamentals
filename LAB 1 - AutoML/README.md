@@ -163,4 +163,57 @@
 
 ![Captura de tela 2024-03-06 135510](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/533a3ab1-b9a5-4c71-a298-4b4b9a887590)
 
+- 10.4 -> Substituír o json existente, pelo código fornecido pela documentação, e depois Apertar em "Testar".
+
+![Captura de tela 2024-03-06 140052](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/bb757d9b-3c9a-4bc5-8277-6655a9317634)
+
+- 10.5 -> Resultado do Teste.
+
+![Captura de tela 2024-03-06 140121](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/9c7d3ea0-5ef8-4373-8987-77731d8ea538)
+
+## Códigos
+<details exit>
+  <summary> Entrada (Aperte para abrir)</summary>
+  
+ ```
+ {
+   "Inputs": { 
+     "data": [
+       {
+         "day": 1,
+         "mnth": 1,   
+         "year": 2022,
+         "season": 2,
+         "holiday": 0,
+         "weekday": 1,
+         "workingday": 1,
+         "weathersit": 2, 
+         "temp": 0.3, 
+         "atemp": 0.3,
+         "hum": 0.3,
+         "windspeed": 0.3 
+       }
+     ]    
+   },   
+   "GlobalParameters": 1.0
+ }
+
+```
+</details>
+
+<details exit>
+  <summary> Resultado (Aperte para abrir)</summary>
+  
+ ```
+{
+  "Results": [
+    374.226822801915
+  ]
+}
+
+```
+</details>
+
+
+
 
