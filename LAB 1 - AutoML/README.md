@@ -62,4 +62,70 @@
 
 ![Captura de tela 2024-03-06 114224](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/684366ac-3dcf-493d-a6b0-76f12db620e9)
 
+![Captura de tela 2024-03-06 115219](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/07106550-c60c-4c6f-a7be-33d9bb5b0f54)
+<br>
+
+## Passo 7
+- Preencher os dados do job com as informações (fornecidas pela documentação da Microsoft).
+- 7.1 -> Preenchimento das informações básicas. Quando Terminar de Preencher Aperte em Avançar.
+
+![Captura de tela 2024-03-06 120152](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/bb05e9ba-9280-4dd0-baa6-d906598a7da1)
+
+- 7.2 -> Escolha do tipo de tarefa (Regressão) e Aperte em criar.
+
+![Captura de tela 2024-03-06 120658](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/f961da10-e3f0-4a9d-8a8d-1213f8f9c752)
+
+- 7.3 -> Preencha as informações e Aperte em Avançar.
+  
+![Captura de tela 2024-03-06 121326](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/adbedbc3-943b-47b9-b675-de8e6abbc20b)
+
+- 7.4 -> Escolha a fonte dos dados e Aperte em Avançar.
+
+![Captura de tela 2024-03-06 121555](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/680456a5-5bde-4815-a869-29e66977128b)
+
+- 7.5 -> Escreva a url e Aperte em Avançar. A url passa por uma verificação e validação.
+
+![Captura de tela 2024-03-06 122022](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/e497da57-8a72-484b-88a1-73b6453ef36a)
+
+- 7.6 -> Os dados devem estar com as seguintes configurações e quando terminar de preencher apertar em Avançar.
+
+![Captura de tela 2024-03-06 122507](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/6732f05e-b4fc-45bc-9bb0-4d6d5eb07b24)
+
+- 7.7 -> Ele traz uma visualização do Esquema. Não é necessário alterar nenhuma informação e Aperte em Avançar.
+
+![Captura de tela 2024-03-06 122919](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/1ae74e3c-73d0-48a1-9152-68b64b98cf64)
+
+- 7.8 -> Por fim, ele traz todas informações para Examinar, e Aperte em "criar", para criar o Base de Dados.
+
+![Captura de tela 2024-03-06 123253](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/e78210c3-852e-4324-96ee-82fb8202c131)
+
+- 7.9 -> Para avançar, selecione a Base de Dados, e Aperte em "Avançar".
+
+![Captura de tela 2024-03-06 123625](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/b90b65d0-d981-4cfa-8578-db4d0a445391)
+
+- 7.10 -> Configurações da tarefa.
+
+![Captura de tela 2024-03-06 124557](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/8f3ee26a-620e-4477-b022-98b42af08c50)
+
+![Captura de tela 2024-03-06 124701](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/aa3ed6e8-331e-4d02-a648-fb676fe08975)
+
+![Captura de tela 2024-03-06 125016](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/07f18a6f-ae4b-481f-8239-270977920c2f)
+
+- 7.11 -> Não é preciso escrever nenhuma informação diferente na tela Computação.
+
+![Captura de tela 2024-03-06 130147](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/e08117f5-88dd-4eaa-9ddf-1e1117c6dc73)
+
+- 7.12 -> As informações são trazidas e pode enviar o trabalho de treinamento.
+
+![Captura de tela 2024-03-06 130439](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/72653e51-f5bc-4636-a8df-ff87732a7680)
+<br>
+
+## Passo 8
+- O modelo inicia o treinamento até a finalização.
+
+![Captura de tela 2024-03-06 130743](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/d9ea47c4-0b7d-4e91-a8d8-bf26f09a2079)
+
+
+
+
 
