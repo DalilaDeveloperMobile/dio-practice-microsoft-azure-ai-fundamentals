@@ -6,3 +6,9 @@
 
 ## Passo 1
 - Acessar [portal.azure.com](https://portal.azure.com/) e clicar em "Criar um recurso".
+  
+![Captura de tela 2024-03-08 124339](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/6b52d7d3-3867-4dd1-8dc6-84741690c4f7)
+<br>
+
+## Passo 2
+- Buscar por "Ai azure services" e clicar em "create"
