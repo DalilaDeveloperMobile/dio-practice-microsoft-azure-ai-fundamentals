@@ -34,11 +34,11 @@
 ## Passo 3
 ### Reconhecimento de Face.
 
-![Captura de tela 2024-03-13 091146](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/0d68e711-6787-42de-b6f6-6e3e96c3e27d)
+![Captura de tela 2024-03-13 104817](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/7875fce2-8e48-4a41-824a-fb16fb7930e9)
 
 - Acesse o “Detect faces in an image”.
 
-![Captura de tela 2024-03-13 091256](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/628c14e6-5be4-49c4-83c7-3964e70ac03f)
+![Captura de tela 2024-03-13 105057](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/180bf2f1-43d3-4731-a78d-9f2b477cdf9d)
 
 - Selecione a opção abaixo.
 
