@@ -28,7 +28,7 @@
 
 - Selecionamos o nosso recurso e clicarmos em “Select as default resource” e apertamos em fechar nesse X.
 
-![Captura de tela 2024-03-13 085440](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/64e69df8-947b-451b-bb12-d7608577d8d8)
+![Captura de tela 2024-03-13 095100](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/e742c464-e868-480a-bd2f-f76427d1faa9)
 <br>
 
 ## Passo 3
