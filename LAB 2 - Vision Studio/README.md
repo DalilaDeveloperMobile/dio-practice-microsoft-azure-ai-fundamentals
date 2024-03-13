@@ -22,7 +22,7 @@
 - Selecione Rever + criar e, em seguida , Criar e aguarde a conclusão da implantação.
 
 ## Passo 2
-- Quando o serviço tiver terminado, acesse o [Vision Studio](https://portal.vision.cognitive.azure.com/?azure-portal=true) com a conta e aperte em “View all resources”.
+- Quando o serviço tiver terminado, acesse o [Vision Studio](https://portal.vision.cognitive.azure.com/?azure-portal=true) com a sua conta e aperte em “View all resources”.
 
 ![Captura de tela 2024-03-13 085124](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/7416fe96-77b7-4232-8c19-0ecf161e4871)
 
