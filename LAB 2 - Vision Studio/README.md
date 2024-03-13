@@ -4,6 +4,10 @@
 -  Com tecnologia OCR (Optical Character Recognition).
 #### Realizado como desafio de projeto no Bootcamp Microsoft Azure AI Fundamentals da [Dio.me](https://www.dio.me/).
 
+> [!NOTE]
+> Esse passo a passo é somente uma forma alternativa de realizar o procedimento. Sempre dê preferência a
+> [Documentação Oficial - Reconhecimento](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/04-face.html), [Documentação oficial - Analise de documentos](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/05-ocr.html) e [Documentação oficial - Analise imagens](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/03-image-analysis.html).
+
 ## Passo 1
 - Acessar [portal.azure.com](https://portal.azure.com/) e clicar em "Criar um recurso".
   
