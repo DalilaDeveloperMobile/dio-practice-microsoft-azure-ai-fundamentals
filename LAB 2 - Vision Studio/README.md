@@ -13,13 +13,13 @@
 
 - Clique no botão ＋Criar um recurso e pesquise os serviços de IA do Azure. Selecione criar um plano de serviços de IA do Azure. Você será levado a uma página para criar um recurso de serviços de IA do Azure. Configure-o com as seguintes configurações:
   
-- Assinatura : sua assinatura do Azure.
-- Grupo de recursos : selecione ou crie um grupo de recursos com um nome exclusivo.
-- Região : East US.
-- Nome : Insira um nome exclusivo.
-- Nível de preços : Standard S0.
-- Ao marcar esta caixa, confirmo que li e compreendi todos os termos abaixo : Selecionado.
-- Selecione Rever + criar e, em seguida , Criar e aguarde a conclusão da implantação.
+- Assinatura: sua assinatura do Azure.
+- Grupo de recursos: selecione ou crie um grupo de recursos com um nome exclusivo.
+- Região: East US.
+- Nome: Insira um nome exclusivo.
+- Nível de preços: Standard S0.
+- Ao marcar esta caixa, confirmo que li e compreendi todos os termos abaixo: Selecionado.
+- Selecione Rever + criar e, em seguida, Criar e aguarde a conclusão da implantação.
 
 ## Passo 2
 - Quando o serviço tiver terminado, acesse o [Vision Studio](https://portal.vision.cognitive.azure.com/?azure-portal=true) com a sua conta e aperte em “View all resources”.
