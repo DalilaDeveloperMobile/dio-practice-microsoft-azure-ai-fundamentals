@@ -71,3 +71,17 @@ Página principal > Optical character recognition.
 ![Captura de tela 2024-03-13 092416](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/12b20caf-4134-4f58-a924-01bc9bb1399e)
 
 ![Captura de tela 2024-03-13 092510](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/336ab6fd-5336-4b20-9dd9-d5a6c3670ca5)
+
+### Analise de imagem
+- Página principal > Image analysis > Add captions to images.
+
+![Captura de tela 2024-03-13 092721](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/9df42edb-0a4d-44ea-977d-a7fdbee7bcb7)
+
+- Selecione uma das imagens recomendadas ou de sua máquina e realize os testes.
+
+![Captura de tela 2024-03-13 092833](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/1a0c134a-1d7a-4a0d-91af-cb8bbce70b35)
+
+- Agora Ao lado dessa imagem terá uma descrição da imagem.
+
+![Captura de tela 2024-03-13 093006](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/25ae9539-7d7f-4266-9490-a03de0183160)
+
