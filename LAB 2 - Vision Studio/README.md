@@ -24,7 +24,7 @@
 ## Passo 2
 - Assim que o serviço estiver sido criado, acessamos o [Vision Studio](https://portal.vision.cognitive.azure.com/?azure-portal=true) com as nossas credenciais e clicamos em “View all resources”.
 
-![Captura de tela 2024-03-13 085124](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/b9d58af6-4b57-4e10-9b55-6d48c5402e58)
+![Captura de tela 2024-03-13 085124](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/7416fe96-77b7-4232-8c19-0ecf161e4871)
 
 - Selecionamos o nosso recurso e clicarmos em “Select as default resource” e apertamos em fechar nesse X.
 
