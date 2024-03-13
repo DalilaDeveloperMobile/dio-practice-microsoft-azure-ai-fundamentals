@@ -5,7 +5,7 @@
 #### Realizado como desafio de projeto no Bootcamp Microsoft Azure AI Fundamentals da [Dio.me](https://www.dio.me/).
 
 > [!NOTE]
-> Essas informações são exclusivamente uma maneira de fazer essa atividade.
+> Essas informações são exclusivamente uma maneira de fazer essas atividades.
 >  Mais o preferencial sempre será a Documentação Oficial: [Reconhecimento de face](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/04-face.html), [Analise de documentos](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/05-ocr.html) e [Analise imagens](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/03-image-analysis.html).
 
 ## Passo 1
