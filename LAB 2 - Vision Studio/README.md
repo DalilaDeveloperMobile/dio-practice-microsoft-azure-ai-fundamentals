@@ -19,7 +19,7 @@
 - Nome: Insira um nome exclusivo.
 - Nível de preços: Standard S0.
 - Ao marcar esta caixa, confirmo que li e compreendi todos os termos abaixo: Selecionado.
-- Selecione Rever + criar e, em seguida. Criar e aguarde a conclusão da implantação.
+- Selecione Rever + criar e, em seguida, Criar e aguarde a conclusão da implantação.
 
 ## Passo 2
 - Quando o serviço tiver terminado, acesse o [Vision Studio](https://portal.vision.cognitive.azure.com/?azure-portal=true) com a sua conta e aperte em “View all resources”.
