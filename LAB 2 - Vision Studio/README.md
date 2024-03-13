@@ -5,8 +5,8 @@
 #### Realizado como desafio de projeto no Bootcamp Microsoft Azure AI Fundamentals da [Dio.me](https://www.dio.me/).
 
 > [!NOTE]
-> Esse passo a passo é somente uma forma alternativa de realizar o procedimento. Sempre dê preferência a
-> [Documentação Oficial - Reconhecimento](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/04-face.html), [Documentação oficial - Analise de documentos](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/05-ocr.html) e [Documentação oficial - Analise imagens](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/03-image-analysis.html).
+> Essas informações são exclusivamente uma maneira de fazer essa atividade.
+>  Mais o preferencial sempre será a Documentação Oficial: [Reconhecimento de face](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/04-face.html), [Analise de documentos](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/05-ocr.html) e [Analise imagens](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/03-image-analysis.html).
 
 ## Passo 1
 - Em outra guia do navegador, abra o portal do Azure em https://portal.azure.com , entrando com a conta da Microsoft associada à sua assinatura do Azure.
@@ -67,7 +67,9 @@
 - Entre com sua conta e selecione: Try it out.
 - Selecione uma das imagens padrões ou em seu computador e faça os testes. No lado da imagem verá o texto dessa imagem.
 
-![Captura de tela 2024-03-13 110541](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/b16223ee-2ffd-435b-8d55-f51b07d93933)
+![Captura de tela 2024-03-13 110541](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/3454ecb4-ebe3-437b-b8e9-6339a18922df)
+
+<hr>
 
 <h3 align="center"> Two <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> Of Dalila...</h3>
 <div align="center"  style="display: inline-block">
