@@ -40,10 +40,7 @@
 
 ![Captura de tela 2024-03-13 105057](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/180bf2f1-43d3-4731-a78d-9f2b477cdf9d)
 
-- Selecione a opção abaixo.
-
-![Captura de tela 2024-03-13 091446](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/70ec0b9e-e933-4762-905c-c0e993cb0672)
-
+- Entre com sua conta e selecione: Try it out.
 - Agora só selecionar uma das imagens padrões ou em seu computador e faça os testes.
 
 ![Captura de tela 2024-03-13 091621](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/23a4fa3a-31e6-40d7-9c22-20725404c86b)
@@ -56,11 +53,10 @@
 
 ![Captura de tela 2024-03-13 091922](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/c8e7e78b-cc72-41fc-9cb7-3e7666cb0131)
 
+- Entre com sua conta e selecione: Try it out.
 - Selecione uma das imagens padrões ou em seu computador e faça os testes.
 
-![Captura de tela 2024-03-13 092416](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/12b20caf-4134-4f58-a924-01bc9bb1399e)
-
-![Captura de tela 2024-03-13 092510](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/336ab6fd-5336-4b20-9dd9-d5a6c3670ca5)
+![Captura de tela 2024-03-13 105803](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/aca005c2-7be7-46fb-b647-b8dffdafc497)
 
 ### Analise de imagem
 
@@ -68,13 +64,10 @@
 
 ![Captura de tela 2024-03-13 092721](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/9df42edb-0a4d-44ea-977d-a7fdbee7bcb7)
 
-- Selecione uma das imagens padrões ou em seu computador e faça os testes.
+- Entre com sua conta e selecione: Try it out.
+- Selecione uma das imagens padrões ou em seu computador e faça os testes. No lado da imagem verá o texto dessa imagem.
 
-![Captura de tela 2024-03-13 092833](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/1a0c134a-1d7a-4a0d-91af-cb8bbce70b35)
-
-- Agora do lado da imagem verá o texto dessa imagem.
-
-![Captura de tela 2024-03-13 093006](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/25ae9539-7d7f-4266-9490-a03de0183160)
+![Captura de tela 2024-03-13 110541](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/b16223ee-2ffd-435b-8d55-f51b07d93933)
 
 <h3 align="center"> Two <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> Of Dalila...</h3>
 <div align="center"  style="display: inline-block">
