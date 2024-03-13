@@ -39,5 +39,29 @@
 - Selecionamos o nosso recurso e clicarmos em “Select as default resource” e apertamos em fechar nesse X.
 
 ![Captura de tela 2024-03-13 085440](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/64e69df8-947b-451b-bb12-d7608577d8d8)
+<br>
+
+## Passo 5
+### Reconhecimento de imagem.
+Página principal > Face.
+
+![Captura de tela 2024-03-13 091146](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/0d68e711-6787-42de-b6f6-6e3e96c3e27d)
+
+- Acesse o “Detect faces in an image”.
+
+![Captura de tela 2024-03-13 091256](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/628c14e6-5be4-49c4-83c7-3964e70ac03f)
+
+- Selecione a opção abaixo.
+
+![Captura de tela 2024-03-13 091446](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/70ec0b9e-e933-4762-905c-c0e993cb0672)
+
+- Agora só selecionar uma das imagens recomendadas ou da sua máquina e realizar os testes.
+
+![Captura de tela 2024-03-13 091621](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/23a4fa3a-31e6-40d7-9c22-20725404c86b)
+
+![Captura de tela 2024-03-13 091719](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/c9aa487f-a4bc-48c2-9029-231203cfa090)
+
+### Analise de documentos
+Página principal > Optical character recognition.
 
 
