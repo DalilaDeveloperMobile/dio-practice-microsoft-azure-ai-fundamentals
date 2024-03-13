@@ -22,11 +22,11 @@
 - Selecione Rever + criar e, em seguida , Criar e aguarde a conclusão da implantação.
 
 ## Passo 2
-- Assim que o serviço estiver sido criado, acessamos o [Vision Studio](https://portal.vision.cognitive.azure.com/?azure-portal=true) com as nossas credenciais e clicamos em “View all resources”.
+- Quando o serviço tiver terminado, acesse o [Vision Studio](https://portal.vision.cognitive.azure.com/?azure-portal=true) com a conta e aperte em “View all resources”.
 
 ![Captura de tela 2024-03-13 085124](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/7416fe96-77b7-4232-8c19-0ecf161e4871)
 
-- Selecionamos o nosso recurso e clicarmos em “Select as default resource” e apertamos em fechar nesse X.
+- Selecionamos o nosso recurso e apertamos em “Select as default resource” e apertamos em fechar nesse X.
 
 ![Captura de tela 2024-03-13 095100](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/e742c464-e868-480a-bd2f-f76427d1faa9)
 <br>
@@ -44,7 +44,7 @@
 
 ![Captura de tela 2024-03-13 091446](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/70ec0b9e-e933-4762-905c-c0e993cb0672)
 
-- Agora só selecionar uma das imagens recomendadas ou da sua máquina e realizar os testes.
+- Agora só selecionar uma das imagens padrões ou em seu computador e faça os testes.
 
 ![Captura de tela 2024-03-13 091621](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/23a4fa3a-31e6-40d7-9c22-20725404c86b)
 
