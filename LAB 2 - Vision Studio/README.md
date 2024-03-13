@@ -64,4 +64,10 @@ Página principal > Face.
 ### Analise de documentos
 Página principal > Optical character recognition.
 
+![Captura de tela 2024-03-13 091922](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/c8e7e78b-cc72-41fc-9cb7-3e7666cb0131)
 
+- Selecione uma das imagens recomendadas ou de sua máquina e realize os testes.
+
+![Captura de tela 2024-03-13 092416](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/12b20caf-4134-4f58-a924-01bc9bb1399e)
+
+![Captura de tela 2024-03-13 092510](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/336ab6fd-5336-4b20-9dd9-d5a6c3670ca5)
