@@ -40,7 +40,7 @@
 
 ![Captura de tela 2024-03-13 105057](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/180bf2f1-43d3-4731-a78d-9f2b477cdf9d)
 
-- Entre com sua conta e selecione: Try it out.
+- Com sua conta e selecione: Try it out.
 - Agora só selecionar uma das imagens padrões ou em seu computador e faça os testes.
 
 ![Captura de tela 2024-03-13 091621](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/23a4fa3a-31e6-40d7-9c22-20725404c86b)
@@ -53,7 +53,7 @@
 
 ![Captura de tela 2024-03-13 091922](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/c8e7e78b-cc72-41fc-9cb7-3e7666cb0131)
 
-- Entre com sua conta e selecione: Try it out.
+- Com sua conta e selecione: Try it out.
 - Selecione uma das imagens padrões ou em seu computador e faça os testes.
 
 ![Captura de tela 2024-03-13 105803](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/aca005c2-7be7-46fb-b647-b8dffdafc497)
@@ -64,7 +64,7 @@
 
 ![Captura de tela 2024-03-13 092721](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/9df42edb-0a4d-44ea-977d-a7fdbee7bcb7)
 
-- Entre com sua conta e selecione: Try it out.
+- Com sua conta e selecione: Try it out.
 - Selecione uma das imagens padrões ou em seu computador e faça os testes. No lado da imagem verá o texto dessa imagem.
 
 ![Captura de tela 2024-03-13 110541](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/3454ecb4-ebe3-437b-b8e9-6339a18922df)
