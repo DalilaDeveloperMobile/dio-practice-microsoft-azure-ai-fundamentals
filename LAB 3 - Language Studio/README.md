@@ -76,3 +76,6 @@ Passo a passo de experimento usando:
 ### Passo 6
 - Na página inicial Language Studio. Selecione a guia Classify text.
 - Em seguida, selecione o bloco Analyze sentiment and mine opinions.
+- Em Selecionar idioma do texto, pode ser Inglês ou Português de sua preferência.
+- Escreva a Sentença ou Selecione o seu recurso Azure.
+- Marque o CheckBox e Aperte em Run.
