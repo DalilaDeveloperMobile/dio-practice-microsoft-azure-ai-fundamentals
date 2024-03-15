@@ -26,6 +26,10 @@ Passo a passo de experimento usando:
 - Aguarde até que o recurso seja criado.
 - selecione Usar recurso.
 - Aperte em X para navegar para a página Introdução à Fala.
+ 
+### Passo 2
+- Acessar a parte da tela onde tem conversão de fala em texto.
+- Apertar Conversão de fala em texto em tempo real.
 
 ### Passo 1
 - Em outra guia do navegador, abra o portal do Azure em [Portal Azure](https://portal.azure.com), entrando com a conta da Microsoft associada à sua assinatura do Azure.
