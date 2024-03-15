@@ -51,3 +51,13 @@ Passo a passo de experimento usando:
 - Selecione criar Language service.
 - Você será levado a uma página para Select additional features.
 - Mantenha a seleção padrão e clique em Continue to create your resource.
+
+### Passo 3
+#### Na página Create Language, configure-o com as seguintes configurações:
+- Subscription: sua assinatura do Azure.
+- Resource group: selecione ou crie um grupo de recursos com um nome exclusivo.
+- Region: East US.
+- Name: Insira um nome exclusivo..
+- Pricing tier: Free F0.
+- Ao marcar esta caixa, confirmo que li e compreendi todos os termos abaixo: Selecionado.
+- Selecione Review + create e depois Create e aguarde a conclusão da implantação.
