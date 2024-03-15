@@ -10,5 +10,8 @@ Passo a passo de experimento usando:
 >  Mais o preferencial sempre será a Documentação Oficial: [Estúdio de Fala](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/09-speech.html),
  [Language Studio](https://aka.ms/ai900-text-analysis).
 
+### Estúdio de Fala
+- Em outra guia do navegador, abra o [Portal Estúdio de Fala](https://speech.microsoft.com/portal) entrando com a conta da Microsoft associada à sua assinatura do Azure.
+
 ### Passo 1
 - Em outra guia do navegador, abra o portal do Azure em [Portal Azure](https://portal.azure.com), entrando com a conta da Microsoft associada à sua assinatura do Azure.
