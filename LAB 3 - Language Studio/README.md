@@ -72,3 +72,7 @@ Passo a passo de experimento usando:
 - Resource type: Language
 - Resource name: Selecione o recurso de serviço de idioma que você acabou de criar.
 - Em seguida, selecione: Done.
+
+### Passo 6
+- Na página inicial Bem-vindo ao Language Studio. Selecione a guia Classify text.
+- Em seguida, selecione o bloco Analyze sentiment and mine opinions.
