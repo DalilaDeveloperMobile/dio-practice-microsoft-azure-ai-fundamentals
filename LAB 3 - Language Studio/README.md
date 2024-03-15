@@ -79,3 +79,8 @@ Passo a passo de experimento usando:
 - Em Selecionar idioma do texto, pode ser Inglês ou Português de sua preferência.
 - Escreva a Sentença ou Selecione o seu recurso Azure.
 - Marque o CheckBox e Aperte em Run.
+
+## Resultado:
+### Sentimento do Documento:
+
+![Captura de tela 2024-03-15 113314](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/2bb65bf4-cd85-4117-97f7-75fc1bd6fe57)
