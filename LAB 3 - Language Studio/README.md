@@ -41,5 +41,6 @@ Passo a passo de experimento usando:
   
 ![Captura de tela 2024-03-15 101045](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/2ffca9a7-6d34-4388-925b-806ac491daad)
 
+## Análise de Sentimentos:
 ### Passo 1
 - Em outra guia do navegador, abra o portal do Azure em [Portal Azure](https://portal.azure.com), entrando com a conta da Microsoft associada à sua assinatura do Azure.
