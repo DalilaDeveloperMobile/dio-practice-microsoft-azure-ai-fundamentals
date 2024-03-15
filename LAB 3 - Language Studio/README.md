@@ -64,3 +64,11 @@ Passo a passo de experimento usando:
 
 ### Passo 4
 - Em outra guia do navegador, abra o [Portal Language Studio](https://language.cognitive.azure.com) e entre com a conta da Microsoft do Azure.
+
+### Passo 5
+#### Quando solicitado com Select an Azure resource, faça as seguintes configurações:
+- Azure directory: Diretório Padrão, o diretório que você está usando. Ex: Canal da Cloud.
+- Azure subscription: Selecione a assinatura que você está usando.
+- Resource type: Language
+- Resource name: Selecione o recurso de serviço de idioma que você acabou de criar.
+- Em seguida, selecione: Done.
