@@ -44,3 +44,10 @@ Passo a passo de experimento usando:
 ## Análise de Sentimentos:
 ### Passo 1
 - Em outra guia do navegador, abra o portal do Azure em [Portal Azure](https://portal.azure.com), entrando com a conta da Microsoft associada à sua assinatura do Azure.
+
+### Passo 2
+- Clique no botão ＋ Create a resource.
+- Procure por Language service.
+- Selecione criar Language service.
+- Você será levado a uma página para Select additional features.
+- Mantenha a seleção padrão e clique em Continue to create your resource.
