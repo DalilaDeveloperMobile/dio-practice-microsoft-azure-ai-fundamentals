@@ -12,6 +12,9 @@ Passo a passo de experimento usando:
 
 ### Estúdio de Fala
 - Em outra guia do navegador, abra o [Portal Estúdio de Fala](https://speech.microsoft.com/portal) entrando com a conta da Microsoft associada à sua assinatura do Azure.
+  
+#### Comentário
+- O sistema pega um arquivo de áudio e vai transcrever em texto ou um texto e vai transformar em áudio.
 
 ### Passo 1
 - Em outra guia do navegador, abra o portal do Azure em [Portal Azure](https://portal.azure.com), entrando com a conta da Microsoft associada à sua assinatura do Azure.
