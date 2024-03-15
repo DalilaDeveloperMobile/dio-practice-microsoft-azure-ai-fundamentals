@@ -10,7 +10,7 @@ Passo a passo de experimento usando:
 >  Mais o preferencial sempre será a Documentação Oficial: [Estúdio de Fala](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/09-speech.html),
  [Language Studio](https://aka.ms/ai900-text-analysis).
 
-### Estúdio de Fala
+## Estúdio de Fala
 - Em outra guia do navegador, abra o [Portal Estúdio de Fala](https://speech.microsoft.com/portal) entrando com a conta da Microsoft do Azure.
   
 ### Comentário: O sistema pega um arquivo de áudio e vai transcrever em texto ou um texto e vai transformar em áudio.
