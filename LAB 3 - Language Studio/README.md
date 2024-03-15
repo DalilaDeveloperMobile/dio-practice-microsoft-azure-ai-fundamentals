@@ -84,3 +84,29 @@ Passo a passo de experimento usando:
 ### Sentimento do Documento:
 
 ![Captura de tela 2024-03-15 113314](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/2bb65bf4-cd85-4117-97f7-75fc1bd6fe57)
+
+### Sentence 1
+- EN: I bought a size S and it fit perfectly
+
+![S1](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/cecddc80-2e0d-4d9d-8c85-f49336e0ff10)
+
+### Sentence 2
+- EN: I found the zipper a little bit difficult to get up & down due to the side rushing.
+
+![S2](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/5eb8cc6f-4316-4d4b-83cb-e8a1672686f1)
+
+### Sentence 3
+- EN: The color and material are beautiful in person.
+
+![S3](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/e461cb73-f48d-41bc-bb35-a6ec47f8cf0a)
+
+### Sentence 4
+- EN: Amazingly comfortable!
+
+![S4](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/b4e1d7a8-ed1b-4e4e-9679-6da73a11d30c)
+
+### Original text
+- EN: I bought a size S and it fit perfectly. I found the zipper a little bit difficult to get up & down due to the side rushing. The color and material are beautiful in person. Amazingly comfortable!
+
+![OT](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/6efd5aff-f1cf-4168-8680-9c133c52f3fa)
+
