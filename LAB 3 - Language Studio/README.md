@@ -61,3 +61,6 @@ Passo a passo de experimento usando:
 - Pricing tier: Free F0.
 - Ao marcar esta caixa, confirmo que li e compreendi todos os termos abaixo: Selecionado.
 - Selecione Review + create e depois Create e aguarde a conclusão da implantação.
+
+### Passo 4
+- Em outra guia do navegador, abra o [Portal Language Studio](https://language.cognitive.azure.com) e entre com a conta da Microsoft do Azure.
