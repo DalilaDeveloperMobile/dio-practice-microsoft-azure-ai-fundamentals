@@ -74,5 +74,5 @@ Passo a passo de experimento usando:
 - Em seguida, selecione: Done.
 
 ### Passo 6
-- Na página inicial Bem-vindo ao Language Studio. Selecione a guia Classify text.
+- Na página inicial Language Studio. Selecione a guia Classify text.
 - Em seguida, selecione o bloco Analyze sentiment and mine opinions.
