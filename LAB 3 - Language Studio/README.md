@@ -11,9 +11,21 @@ Passo a passo de experimento usando:
  [Language Studio](https://aka.ms/ai900-text-analysis).
 
 ### Estúdio de Fala
-- Em outra guia do navegador, abra o [Portal Estúdio de Fala](https://speech.microsoft.com/portal) entrando com a conta da Microsoft associada à sua assinatura do Azure.
+- Em outra guia do navegador, abra o [Portal Estúdio de Fala](https://speech.microsoft.com/portal) entrando com a conta da Microsoft do Azure.
   
 ### Comentário: O sistema pega um arquivo de áudio e vai transcrever em texto ou um texto e vai transformar em áudio.
+
+### Passo 1
+#### Selecione Configurações e depois Crie um recurso. Configure-o com as seguintes configurações:
+- Nome do novo recurso : Insira um nome exclusivo.
+- Assinatura : sua assinatura do Azure.
+- Região : Selecione uma região suportada: Leste dos EUA.
+- Nível de preços : selecione Padrão S0.
+- Grupo de recursos : selecione ou crie um grupo de recursos com um nome exclusivo.
+- Selecione Criar recurso.
+- Aguarde até que o recurso seja criado.
+- selecione Usar recurso.
+- Aperte em X para navegar para a página Introdução à Fala.
 
 ### Passo 1
 - Em outra guia do navegador, abra o portal do Azure em [Portal Azure](https://portal.azure.com), entrando com a conta da Microsoft associada à sua assinatura do Azure.
