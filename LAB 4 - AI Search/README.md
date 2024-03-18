@@ -41,5 +41,5 @@ Passo a passo de experimento usando:
 - Performance: Standard
 - Redundancy: Locally redundant storage (LRS).
 - Clique em Revisar e em Criar. Aguarde a conclusão da implantação e vá para o recurso implantado.
-- Na Azure Storage account que você criou, no painel de menu esquerdo, selecione Configuração (em Settings).
+- Na Azure Storage account que você criou, no painel de menu esquerdo, selecione Configuration (em Settings).
 - Altere a configuração de Permitir acesso anônimo de Blob para Enabled e selecione Save.
