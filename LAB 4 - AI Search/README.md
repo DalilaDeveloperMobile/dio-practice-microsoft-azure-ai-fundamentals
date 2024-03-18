@@ -53,4 +53,5 @@ Passo a passo de experimento usando:
 - Insira as seguintes configurações e clique em Create:
 - Name: coffeereviews. Avaliações de café.
 - Public access level: Container (anonymous read access for containers and blobs)
-- Advanced: no changes.
+- Advanced: sem alterações.
+- Aperte em Create.
