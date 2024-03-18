@@ -72,3 +72,4 @@ Passo a passo de experimento usando:
 ### Passo 6
 - No portal do Azure, navegue até o recurso Azure AI Search. Na página Visão geral, selecione Import data.
 
+![Captura de tela 2024-03-18 103306](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/3421e372-58ba-4abb-b166-7414b7482baf)
