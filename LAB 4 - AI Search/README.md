@@ -94,3 +94,10 @@ Passo a passo de experimento usando:
 - Certifique-se de que o Source data field esteja definido como merged_content.
 - Altere o Enrichment granularity level para Pages (5000 character chunks).
 - Não selecione: Enable incremental enrichment.
+- Selecione os seguintes campos enriquecidos:
+- Extract location names
+- Extract key phrases
+- Detect sentiment
+- Generate tags from images
+- Generate captions from images
+- Em Save enrichments to a knowledge store, selecione:
