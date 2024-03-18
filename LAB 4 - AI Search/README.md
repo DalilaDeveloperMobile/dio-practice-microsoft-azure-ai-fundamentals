@@ -100,4 +100,9 @@ Passo a passo de experimento usando:
 - Detect sentiment: sentiment.
 - Generate tags from images: imageTags.
 - Generate captions from images: imageCaption.
-- Em Save enrichments to a knowledge store, selecione:
+- Em Save enrichments to a knowledge store, selecione: "Image projections".
+- Selecione "choose an existing connection".
+- Escolha o storage criado anteriormente.
+- Clique em + Container para criar um novo contêiner chamado knowledge-store com o nível de privacidade definido como Private, e selecione Create.
+- Selecione então o knowledge-store e clique em "select".
+
