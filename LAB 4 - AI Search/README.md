@@ -85,3 +85,9 @@ Passo a passo de experimento usando:
 - Blob folder: Deixe isso em branco.
 - Description: Reviews for Fourth Coffee shops.
 - Selecione Next: Add cognitive skills (Optional).
+
+### Passo 7
+- Na Página "Add Cognitive skills (optional)", em "Attach AI Services", selecione seu recurso.
+- Em "add enrichments" preencher conforme o texto seguido.
+- Escreva o nome da Skillset para coffee-skillset.
+- Marque a caixa de seleção: Enable OCR and merge all text into merged_content field.
