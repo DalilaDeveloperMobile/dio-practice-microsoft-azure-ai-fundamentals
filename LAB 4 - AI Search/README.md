@@ -30,3 +30,14 @@ Passo a passo de experimento usando:
 - Ao marcar esta caixa, confirmo que li e compreendi todos os termos abaixo: Selecionado.
 - Selecione Review + create. Depois de ver a resposta Validação aprovada, selecione Create.
 - Aguarde a conclusão da implantação e visualize os detalhes da implantação.
+
+### Passo 3
+- Retorne à página inicial do portal do Azure e selecione o botão + Create a resource.
+- Procure por storage account, e crie um recurso de Storage account com as seguintes configurações:
+- Subscription: Sua assinatura do Azure.
+- Resource group: O mesmo grupo de recursos que os recursos do Azure AI Search e dos serviços Azure AI.
+- Storage account name: Um nome exclusivo.
+- Location: Escolha qualquer local disponível.
+- Performance: Standard
+- Redundancy: Locally redundant storage (LRS).
+- Clique em Revisar e em Criar. Aguarde a conclusão da implantação e vá para o recurso implantado.
