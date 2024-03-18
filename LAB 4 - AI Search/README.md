@@ -22,3 +22,11 @@ Passo a passo de experimento usando:
 
 ### Passo 2
 - Retorne à página inicial do portal do Azure. Clique no botão ＋Create a resource e pesquise por Azure AI services. Selecione criar um plano de Azure AI services. Você será levado a uma página para criar um recurso de Azure AI services. Configure-o com as seguintes configurações:
+- Subscription: Sua assinatura do Azure.
+- Resource group: O mesmo grupo de recursos que o seu recurso Azure AI Search.
+- Region: O mesmo local que o seu recurso Azure AI Search.
+- Name: Um nome exclusivo.
+- Pricing tier: Standard S0.
+- Ao marcar esta caixa, confirmo que li e compreendi todos os termos abaixo: Selecionado.
+- Selecione Review + create. Depois de ver a resposta Validação aprovada, selecione Create.
+- Aguarde a conclusão da implantação e visualize os detalhes da implantação.
