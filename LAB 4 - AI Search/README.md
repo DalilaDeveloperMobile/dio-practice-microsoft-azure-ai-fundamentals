@@ -10,3 +10,10 @@ Passo a passo de experimento usando:
 
 ### Passo 1
 - Entre no [Portal do Azure](https://portal.azure.com/?azure-portal=true).
+
+#### Clique no botão + Create a resource, pesquise por Azure AI Search, e crie um recurso do Azure AI Search com as seguintes configurações:
+- Subscription: Sua assinatura do Azure.
+- Resource group: Selecione ou crie um grupo de recursos com um nome exclusivo.
+- Service name: Um nome exclusivo.
+- Location: Escolha qualquer região disponível. East US.
+- Pricing tier: Básico. Selecione Basic.
