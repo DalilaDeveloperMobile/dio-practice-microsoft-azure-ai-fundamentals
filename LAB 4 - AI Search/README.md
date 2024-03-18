@@ -128,7 +128,7 @@ Passo a passo de experimento usando:
 
 - Filtrar por sentimentos negativos de pessoas search=sentiment:'negative'.
 
-- Filtrar por localização search=locations:'Chicago' vai exibir as revisões com os sentimentos de pessoa dessa Localização.
+- Filtrar por localização sentimentos search=locations:'Chicago'.
 
 <hr>
 
