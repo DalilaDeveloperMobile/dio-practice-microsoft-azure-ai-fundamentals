@@ -126,8 +126,6 @@ Passo a passo de experimento usando:
 
 - No Search Explorer, Filtrar por conta search=*&$count=true, e aperte em "search".
 
-![Captura de tela 2024-03-18 121150](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/a6c2a687-e683-498f-b41a-00af25569297)
-
 - Filtrar por localização search=locations:'Chicago' vai exibir as revisões com os sentimentos de pessoa dessa Localização.
 
 - Filtrar por sentimentos negativos de pessoas search=sentiment:'negative'.
