@@ -69,3 +69,6 @@ Passo a passo de experimento usando:
 
 - Depois que o upload for concluído, você poderá fechar o painel Upload blob. Seus documentos estão agora em seu coffee-reviews storage container.
 
+### Passo 6
+- No portal do Azure, navegue até o recurso Azure AI Search. Na página Visão geral, selecione Import data.
+
