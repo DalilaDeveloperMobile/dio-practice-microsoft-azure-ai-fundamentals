@@ -59,3 +59,5 @@ Passo a passo de experimento usando:
 ### Passo 5
 - Em uma nova guia do navegador, baixe as avaliações compactadas do café em https://aka.ms/mslearn-coffee-reviews, e extraia os arquivos para a pasta de coffee-reviews.
 - No portal do Azure, selecione o coffee-reviews container. No container, selecione Upload.
+
+![Captura de tela 2024-03-18 102156](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/762a99ff-9750-40df-836c-86cea104cccc)
