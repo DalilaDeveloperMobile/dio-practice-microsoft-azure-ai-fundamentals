@@ -91,3 +91,6 @@ Passo a passo de experimento usando:
 - Em "add enrichments" preencher conforme o texto seguido.
 - Escreva o nome da Skillset para coffee-skillset.
 - Marque a caixa de seleção: Enable OCR and merge all text into merged_content field.
+- Certifique-se de que o Source data field esteja definido como merged_content.
+- Altere o Enrichment granularity level para Pages (5000 character chunks).
+- Não selecione: Enable incremental enrichment.
