@@ -7,3 +7,6 @@ Passo a passo de experimento usando:
  > [!NOTE]
 > Essas informações são exclusivamente uma maneira de fazer essas atividades.
 >  Mais o preferencial sempre será a Documentação Oficial: [AI Search](https://aka.ms/ai900-ai-search).
+
+### Passo 1
+- Entre no [Portal do Azure](https://portal.azure.com/?azure-portal=true).
