@@ -37,7 +37,9 @@ Passo a passo de experimento usando:
 - Subscription: Sua assinatura do Azure.
 - Resource group: O mesmo grupo de recursos que os recursos do Azure AI Search e dos serviços Azure AI.
 - Storage account name: Um nome exclusivo.
-- Location: Escolha qualquer local disponível.
+- Location: Escolha qualquer local disponível. (US) East US.
 - Performance: Standard
 - Redundancy: Locally redundant storage (LRS).
 - Clique em Revisar e em Criar. Aguarde a conclusão da implantação e vá para o recurso implantado.
+- Na Azure Storage account que você criou, no painel de menu esquerdo, selecione Configuração (em Settings).
+- Altere a configuração de Permitir acesso anônimo de Blob para Enabled e selecione Save.
