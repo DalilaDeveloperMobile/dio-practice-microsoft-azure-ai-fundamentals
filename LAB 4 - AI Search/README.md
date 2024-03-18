@@ -17,3 +17,4 @@ Passo a passo de experimento usando:
 - Service name: Um nome exclusivo.
 - Location: Escolha qualquer região disponível. East US.
 - Pricing tier: Básico. Selecione Basic.
+- Selecione Review + create, e depois de ver a resposta Validation Success, selecione Create.
