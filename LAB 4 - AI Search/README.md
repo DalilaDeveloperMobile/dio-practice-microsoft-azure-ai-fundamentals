@@ -112,3 +112,22 @@ Passo a passo de experimento usando:
 - Certifique-se de que a chave esteja definida como metadata_storage_path. Deixe o nome do Suggester name em branco e o Search mode preenchido automaticamente.
 - Revise as configurações padrão dos campos de índice. Selecione filterable para todos os campos que estão selecionados por padrão.
 - Selecione Next: Create an indexer.
+
+### Passo 9
+- Altere o nome do Indexer name para coffee-indexer.
+- Deixe o Schedule definida como Once.
+- Certifique-se de que a opção Base-64 Encode Keys esteja selecionada.
+- Aperte em "submit".
+
+### Passo 10
+- Abrir o Azure AI Services| Ai Search, e Aperte em Search Explorer
+
+![Captura de tela 2024-03-18 121011](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/6d6e906d-87d0-44c8-91b6-e49708985c53)
+
+- No Search Explorer, Filtrar por conta search=*&$count=true, e aperte em "search".
+
+![Captura de tela 2024-03-18 121150](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/a6c2a687-e683-498f-b41a-00af25569297)
+
+- Filtrar por localização search=locations:'Chicago' vai exibir as revisões com os sentimentos de pessoa dessa Localização.
+
+- Filtrar por sentimentos negativos de pessoas search=sentiment:'negative'.
