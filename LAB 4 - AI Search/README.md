@@ -73,3 +73,15 @@ Passo a passo de experimento usando:
 - No portal do Azure, navegue até o recurso Azure AI Search. Na página Visão geral, selecione Import data.
 
 ![Captura de tela 2024-03-18 103306](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/3421e372-58ba-4abb-b166-7414b7482baf)
+
+- Na página Connect to your data, na lista Data Source, selecione Azure Blob Storage. Preencha os detalhes do armazenamento de dados com os seguintes valores:
+- Data Source: Azure Blob Storage.
+- Data source name: coffee-customer-data.
+- Data to extract: Content and metadata
+- Parsing mode: Default
+- Connection string: *Selecione Escolha uma conexão existente. Selecione sua conta de armazenamento, selecione o contêiner de avaliações de café e clique em Selecionar.
+- Managed identity authentication: None
+- Container name: esta configuração é preenchida automaticamente depois que você escolhe uma conexão existente.
+- Blob folder: Deixe isso em branco.
+- Description: Reviews for Fourth Coffee shops.
+- Selecione Next: Add cognitive skills (Optional).
