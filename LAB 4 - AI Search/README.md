@@ -106,3 +106,9 @@ Passo a passo de experimento usando:
 - Clique em + Container para criar um novo contêiner chamado knowledge-store com o nível de privacidade definido como Private, e selecione Create.
 - Selecione então o knowledge-store e clique em "select".
 
+### Passo 8
+- Selecione Azure blob projections: Document. Uma configuração para o nome do contêiner com as exibições preenchidas automaticamente do contêiner de armazenamento de conhecimento. Não altere o nome do contêiner.
+- Selecione Next: Customize target index. Altere o nome do índice para coffee-index.
+- Certifique-se de que a chave esteja definida como metadata_storage_path. Deixe o nome do Suggester name em branco e o Search mode preenchido automaticamente.
+- Revise as configurações padrão dos campos de índice. Selecione filterable para todos os campos que estão selecionados por padrão.
+- Selecione Next: Create an indexer.
