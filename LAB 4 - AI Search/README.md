@@ -95,9 +95,9 @@ Passo a passo de experimento usando:
 - Altere o Enrichment granularity level para Pages (5000 character chunks).
 - Não selecione: Enable incremental enrichment.
 - Selecione os seguintes campos enriquecidos:
-- Extract location names
-- Extract key phrases
-- Detect sentiment
-- Generate tags from images
-- Generate captions from images
+- Extract location names: locations.
+- Extract key phrases: keyphrases.
+- Detect sentiment: sentiment.
+- Generate tags from images: imageTags.
+- Generate captions from images: imageCaption.
 - Em Save enrichments to a knowledge store, selecione:
