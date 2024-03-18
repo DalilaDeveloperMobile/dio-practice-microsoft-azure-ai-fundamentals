@@ -48,3 +48,9 @@ Passo a passo de experimento usando:
 - No painel de menu esquerdo, selecione Containers.
 
 ![Captura de tela 2024-03-18 100428](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/5cea760d-7134-4fe0-b909-615ad6dd9ff1)
+
+- Selecione + Container. Um painel do seu lado direito é aberto.
+- Insira as seguintes configurações e clique em Create:
+- Name: coffee-reviews. Avaliações de café.
+- Public access level: Container (anonymous read access for containers and blobs)
+- Advanced: no changes.
