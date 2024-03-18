@@ -43,3 +43,8 @@ Passo a passo de experimento usando:
 - Clique em Revisar e em Criar. Aguarde a conclusão da implantação e vá para o recurso implantado.
 - Na Azure Storage account que você criou, no painel de menu esquerdo, selecione Configuration (em Settings).
 - Altere a configuração de Allow Blob anonymous access para Enabled e selecione Save.
+
+### Passo 4
+- No painel de menu esquerdo, selecione Containers.
+
+![Captura de tela 2024-03-18 100428](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/5cea760d-7134-4fe0-b909-615ad6dd9ff1)
