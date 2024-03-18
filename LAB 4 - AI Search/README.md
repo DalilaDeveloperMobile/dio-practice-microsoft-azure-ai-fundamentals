@@ -61,3 +61,11 @@ Passo a passo de experimento usando:
 - No portal do Azure, selecione o coffee-reviews container. No container, selecione Upload.
 
 ![Captura de tela 2024-03-18 102156](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/762a99ff-9750-40df-836c-86cea104cccc)
+
+- No painel Upload blob, selecione Selecionar um arquivo.
+- Na janela do Explorer, selecione todos os arquivos na pasta de avaliações, selecione Abrir e, em seguida, selecione Upload.
+
+![Captura de tela 2024-03-18 102558](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/6413f799-934b-4916-b587-e39b14a4fc57)
+
+- Depois que o upload for concluído, você poderá fechar o painel Upload blob. Seus documentos estão agora em seu coffee-reviews storage container.
+
