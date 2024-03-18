@@ -18,3 +18,4 @@ Passo a passo de experimento usando:
 - Location: Escolha qualquer região disponível. East US.
 - Pricing tier: Básico. Selecione Basic.
 - Selecione Review + create, e depois de ver a resposta Validation Success, selecione Create.
+- Após a conclusão da implantação, selecione Go to resource. Na página de visão geral do Azure AI Search, você pode adicionar índices, importar dados e pesquisar índices criados.
