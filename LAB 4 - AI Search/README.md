@@ -55,3 +55,7 @@ Passo a passo de experimento usando:
 - Public access level: Container (anonymous read access for containers and blobs)
 - Advanced: sem alterações.
 - Aperte em Create.
+
+### Passo 5
+- Em uma nova guia do navegador, baixe as avaliações compactadas do café em https://aka.ms/mslearn-coffee-reviews, e extraia os arquivos para a pasta de coffee-reviews.
+- No portal do Azure, selecione o coffee-reviews container. No container, selecione Upload.
