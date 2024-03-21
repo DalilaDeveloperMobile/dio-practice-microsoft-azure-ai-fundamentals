@@ -38,3 +38,14 @@ Passo a passo de experimento usando:
 
 ![Captura de tela 2024-03-13 095100](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/e742c464-e868-480a-bd2f-f76427d1faa9)
 <br>
+
+### Analise de documentos
+
+- Acesse o Optical character recognition.
+
+![Captura de tela 2024-03-13 091922](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/c8e7e78b-cc72-41fc-9cb7-3e7666cb0131)
+
+- Com sua conta selecione: Try it out.
+- Selecione uma das imagens padrões ou em seu computador e faça os testes.
+
+![Captura de tela 2024-03-13 105803](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/aca005c2-7be7-46fb-b647-b8dffdafc497)
