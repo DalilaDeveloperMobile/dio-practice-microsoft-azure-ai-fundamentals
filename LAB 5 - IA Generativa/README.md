@@ -49,3 +49,17 @@ Passo a passo de experimento usando:
 - Selecione uma das imagens padrões ou em seu computador e faça os testes.
 
 ![Captura de tela 2024-03-13 105803](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/aca005c2-7be7-46fb-b647-b8dffdafc497)
+
+### Extrair Texto de Imagens:
+ - Input 1 & Output 1:
+
+![Captura de tela 2024-03-21 094229](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/1299b0b2-ed33-4de4-81e7-e866dbfb530d)
+
+ - Input 2 & Output 2:
+
+![Captura de tela 2024-03-21 094422](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/0316fae7-55b3-425b-80a0-d15d00346185)
+
+  - Input 3 & Output 3:
+
+![Captura de tela 2024-03-21 094607](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/802fb759-b69a-4b58-86f0-5f896495560c)
+
