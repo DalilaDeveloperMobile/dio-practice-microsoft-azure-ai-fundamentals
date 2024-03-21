@@ -14,3 +14,7 @@ Passo a passo de experimento usando:
   - Input 1 & Output 1:
     
 ![Captura de tela 2024-03-21 090249](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/9228967b-f350-4cb4-8fee-80837e665f43)
+
+  - Input 2 & Output 2:
+
+![Captura de tela 2024-03-21 091349](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/253d0d27-5566-4aae-a342-01da45983593)
