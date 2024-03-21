@@ -29,3 +29,12 @@ Passo a passo de experimento usando:
  - Nível de preços: Standard S0.
  - Ao marcar esta caixa, confirmo que li e compreendi todos os termos abaixo: Selecionado.
  - Selecione Rever + criar e, em seguida, Criar e aguarde a conclusão da implantação.
+
+- Quando o serviço tiver terminado, acesse o [Vision Studio](https://portal.vision.cognitive.azure.com/?azure-portal=true) com a sua conta e aperte em “View all resources”.
+
+![Captura de tela 2024-03-13 085124](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/7416fe96-77b7-4232-8c19-0ecf161e4871)
+
+- Selecionamos o nosso recurso e apertamos em “Select as default resource” e apertamos em fechar nesse X.
+
+![Captura de tela 2024-03-13 095100](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/e742c464-e868-480a-bd2f-f76427d1faa9)
+<br>
