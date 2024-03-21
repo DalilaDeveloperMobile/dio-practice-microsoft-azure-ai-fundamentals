@@ -18,3 +18,5 @@ Passo a passo de experimento usando:
   - Input 2 & Output 2:
 
 ![Captura de tela 2024-03-21 091349](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/253d0d27-5566-4aae-a342-01da45983593)
+
+# Extrair Texto a Partir de Imagens.
