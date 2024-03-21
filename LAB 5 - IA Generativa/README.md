@@ -20,3 +20,12 @@ Passo a passo de experimento usando:
 ![Captura de tela 2024-03-21 091349](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/253d0d27-5566-4aae-a342-01da45983593)
 
 # Extrair Texto a Partir de Imagens.
+- Em outra guia do navegador, abra o portal do Azure em https://portal.azure.com , entrando com a conta da Microsoft associada à sua assinatura do Azure.
+- Clique no botão ＋Criar um recurso e pesquise os serviços de IA do Azure. Selecione criar um plano de serviços de IA do Azure. Você será levado a uma página para criar um recurso de serviços de IA do Azure. Configure-o com as seguintes configurações:
+ - Assinatura: sua assinatura do Azure.
+ - Grupo de recursos: selecione ou crie um grupo de recursos com um nome exclusivo.
+ - Região: East US.
+ - Nome: Insira um nome exclusivo.
+ - Nível de preços: Standard S0.
+ - Ao marcar esta caixa, confirmo que li e compreendi todos os termos abaixo: Selecionado.
+ - Selecione Rever + criar e, em seguida, Criar e aguarde a conclusão da implantação.
