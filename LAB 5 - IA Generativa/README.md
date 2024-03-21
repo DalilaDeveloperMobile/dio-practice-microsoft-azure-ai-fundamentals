@@ -7,3 +7,5 @@ Passo a passo de experimento usando:
 >  Mais o preferencial sempre será a Documentação Oficial: [Microsoft Copilot](https://aka.ms/ai900-bing-copilot), [Azure OpenAI](https://aka.ms/ai900-azure-openai), [Content Filters In Azure OpenAI](https://aka.ms/ai900-content-filters).
 
 - Gerando Imagens Através de Textos com o [Microsoft Copilot](https://copilot.microsoft.com/).
+
+![Captura de tela 2024-03-21 083758](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals/assets/29806802/067abf03-26ea-4231-b7a6-67dc6131f643)
